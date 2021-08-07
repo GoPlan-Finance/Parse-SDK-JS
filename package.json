@@ -25,7 +25,7 @@
     "PATENTS",
     "README.md"
   ],
-  "types": "types/index.d.ts",
+  "typings": "types/index.d.ts",
   "browser": {
     "react-native": false
   },
